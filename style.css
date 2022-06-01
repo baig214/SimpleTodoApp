@@ -1,0 +1,10 @@
+.done-true{
+    text-decoration: line-through;
+    color: grey;
+}
+
+#cd{
+    border:solid 2px black;
+    margin: 40px;
+    padding: 50px;
+}
